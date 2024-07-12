@@ -11,3 +11,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Fastify](https://fastify.dev/)
 - [Prisma](https://www.prisma.io/)
 - [Nodemailer](https://nodemailer.com/)
+
+## 📷 Preview
+![preview](./preview/preview.png)
